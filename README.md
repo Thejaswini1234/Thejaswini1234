@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Thejaswini<br><br>I am exploring the world of technology and continuously learning to improve my technical skills. My journey includes building projects, understanding modern software development, and experimenting with new tools and technologies.<br><br>- Working on small projects to strengthen coding skills<br>- Learning to create efficient and practical software solutions<br>- Continuously improving problem-solving and technical abilities
+Hi I am Thejaswini <br>I am exploring the world of technology and continuously learning to improve my technical skills. My journey includes building projects, understanding modern software development practices, and experimenting with new tools and technologies.<br><br>- Working on small projects to strengthen coding skills  <br>- Learning to create efficient and practical software solutions  <br>- Continuously improving problem-solving and technical abilities<br><br>
 
 
 # 💻 Tech Stack:
