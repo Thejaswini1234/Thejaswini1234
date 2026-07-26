@@ -12,4 +12,9 @@ Hi I am Thejaswini <br>I am exploring the world of technology and continuously l
 ![](https://streak-stats.demolab.com/?user=Thejaswini1234&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Thejaswini1234&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+[![](https://komarev.com/ghpvc/?username=Thejaswini1234&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.inhttps://gprm.itsvg.in ) -->
+
+
